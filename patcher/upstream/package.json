@@ -1,0 +1,9 @@
+{
+  "name": "@upstream/rollem-language",
+  "private": true,
+  "description": "Upstream of @rollem/language. This is a dummy package so dependabot can notify us that we need to update our patch.",
+  "version": "1.0.0",
+  "dependencies": {
+    "@rollem/language": "2.7.2"
+  }
+}
