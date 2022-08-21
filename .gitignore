@@ -1,0 +1,6 @@
+/.idea
+/patcher/node_modules/
+/patcher/yarn-error.log
+/patcher/.downloaded/
+/patcher/upstream/node_modules/
+/patcher/upstream/yarn.lock

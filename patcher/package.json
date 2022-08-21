@@ -1,0 +1,31 @@
+{
+  "name": "rollem-language-patcher",
+  "private": true,
+  "description": "Patches the @rollem/language with the specified changes.",
+  "contributors": [
+    "Adrian Todt <npm@adriantodt.net> (https://adriantodt.net)"
+  ],
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/tar": "^6.1.2",
+    "chalk": "^4.1.2",
+    "cli-highlight": "^2.1.11",
+    "js-yaml": "^4.1.0",
+    "klaw": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "rimraf": "^3.0.2",
+    "tar": "^6.1.11"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.5",
+    "@types/klaw": "^3.0.3",
+    "@types/node": "^18.7.9",
+    "@types/node-fetch": "^2.6.1",
+    "@types/rimraf": "^3.0.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "patch": "ts-node ./src/index.ts"
+  }
+}
