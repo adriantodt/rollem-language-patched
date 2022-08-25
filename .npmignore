@@ -1,5 +1,7 @@
 /.github/
 /patcher/
-/upstream/
 /.npmignore/
 /.gitignore/
+/yarn.lock
+/node_modules/
+/yarn-error.log

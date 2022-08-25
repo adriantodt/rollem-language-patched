@@ -4,3 +4,6 @@
 /patcher/.downloaded/
 /patcher/upstream/node_modules/
 /patcher/upstream/yarn.lock
+/node_modules
+/yarn-error.log
+/yarn.lock
