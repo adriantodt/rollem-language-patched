@@ -19,7 +19,7 @@
   "devDependencies": {
     "@types/js-yaml": "^4.0.5",
     "@types/klaw": "^3.0.3",
-    "@types/node": "^18.7.23",
+    "@types/node": "^18.8.0",
     "@types/node-fetch": "^2.6.1",
     "@types/rimraf": "^3.0.2",
     "ts-node": "^10.9.1",
